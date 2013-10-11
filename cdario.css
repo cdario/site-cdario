@@ -1,0 +1,65 @@
+/* CSS declarations go here */
+body{
+	min-height: 900px;
+}
+a {
+	color: #D74B4B ;
+}
+
+a:hover {
+	color: #C63A3A ;
+	
+}
+
+.navbar {
+    position: relative;
+    z-index: 1000;
+    min-height: 50px;
+    margin-bottom: 18px;
+    border: 1px solid transparent;
+}
+
+.page-header{
+	background-color: transparent;
+
+}
+
+.navbar-default{
+	background-color:#354B5E;border-color:#475F77
+}
+.navbar-default .navbar-brand{
+	color:#fff
+}
+.navbar-default .navbar-brand:hover,.navbar-default 
+.navbar-brand:focus{
+	 color:#DCDDD8;
+	/*background-color:#243A4D;*/
+
+}
+.navbar-default .navbar-text{color:#fff}
+.navbar-default .navbar-nav>li>a{
+	color:#DCDDD8
+}
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus{
+	color:#fff;
+	background-color: #354B5E; 	/* D74B4B */
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus{
+	color:#fff;background-color:#475F77
+}
+.navbar-default .navbar-nav>.disabled>a,
+.navbar-default .navbar-nav>.disabled>a:hover,
+.navbar-default .navbar-nav>.disabled>a:focus{color:#fff;
+background-color:transparent}.navbar-default .navbar-toggle{
+border-color:transparent}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus{background-color:#D74B4B}.navbar-default .navbar-toggle .icon-bar{background-color:#fff}.navbar-default .navbar-collapse,
+.navbar-default .navbar-form
+{
+	border-color:#006ddb
+}
+
