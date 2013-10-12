@@ -1,7 +1,18 @@
 /* CSS declarations go here */
 body{
+	padding-top: 0px;
 	min-height: 900px;
+	background-color: #EEEEEE;
 }
+
+.footer{
+	text-align: center;	
+}
+
+.webicons{
+	margin:auto;
+}
+
 a {
 	color: #D74B4B ;
 }
@@ -9,6 +20,11 @@ a {
 a:hover {
 	color: #C63A3A ;
 	
+}
+
+i:hover{
+	text-decoration: none;
+
 }
 
 .navbar {
@@ -25,7 +41,9 @@ a:hover {
 }
 
 .navbar-default{
-	background-color:#354B5E;border-color:#475F77
+	background-color:#354B5E;
+	border-color:#475F77;
+
 }
 .navbar-default .navbar-brand{
 	color:#fff

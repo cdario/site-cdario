@@ -1,0 +1,832 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"dec",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-variant"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"he",
+				"max-height"
+			],
+			[
+				"ari",
+				"arrivalF"
+			],
+			[
+				"arri",
+				"arrivalF"
+			],
+			[
+				"arriv",
+				"timeArrival"
+			],
+			[
+				"time",
+				"timeArrival"
+			],
+			[
+				"inde",
+				"index_p"
+			],
+			[
+				"phase",
+				"phaseSeq"
+			],
+			[
+				"s_star",
+				"s_star-red"
+			],
+			[
+				"prin",
+				"printArray"
+			],
+			[
+				"op",
+				"optimalControlSeq"
+			],
+			[
+				"contol",
+				"controlSeq"
+			],
+			[
+				"control",
+				"controlSeq"
+			],
+			[
+				"IDX",
+				"idxCurrentPh"
+			],
+			[
+				"idx",
+				"idxCurrentPh"
+			],
+			[
+				"s_ta",
+				"s_star"
+			],
+			[
+				"printA",
+				"printArrivals"
+			],
+			[
+				"s_",
+				"s_star"
+			],
+			[
+				"print",
+				"printMatrix"
+			],
+			[
+				"crt",
+				"criterion_flag"
+			],
+			[
+				"criteri",
+				"criterion_flag"
+			],
+			[
+				"cr",
+				"criterion_flag"
+			],
+			[
+				"FON",
+				"font-size"
+			],
+			[
+				"ve",
+				"verbose"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"intia",
+				"initialPhase"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"coordina",
+				"coordinatedPhase"
+			],
+			[
+				"initial",
+				"initialPhase"
+			],
+			[
+				"coor",
+				"coordinatedPhase"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"arrivalDa",
+				"arrivalData2"
+			],
+			[
+				"coo",
+				"coordinatedPhase"
+			],
+			[
+				"span",
+				"span6"
+			],
+			[
+				"ma",
+				"maps"
+			],
+			[
+				"a",
+				"page-break-after"
+			],
+			[
+				"In",
+				"Inmuebles"
+			],
+			[
+				"in",
+				"inmuebles"
+			],
+			[
+				"br",
+				"BR	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cdario.html",
+			"settings":
+			{
+				"buffer_size": 12178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Is what I am doing now, or about to do...\n\nSomething I love to do, or deeply important to me?\n\nSomething that will move you towards your specific goals?\n\nSomething with a large negative consequence if you don't do it?\n",
+			"settings":
+			{
+				"buffer_size": 218,
+				"line_ending": "Unix",
+				"name": "Is what I am doing now, or about to do..."
+			}
+		},
+		{
+			"file": "cdario.css",
+			"settings":
+			{
+				"buffer_size": 1576,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "justified-navbar.css",
+			"settings":
+			{
+				"buffer_size": 2424,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "body {\npadding: 30px;\n}\n\n.navbar {\nmargin-bottom: 30px;\nmin-height:  100%;\n}\n\n.navbar-collapse {\n    max-height: 100%;\n}\n/*.navbar {\n    position: relative;\n    z-index: 1000;\n    min-height: 50px;\n    margin-bottom: 40px;\n    border: 1px solid transparent;\n}*/\n\n.navbar-nav{\nmin-height:  100%\n\n}\n\n",
+			"file": "navbar.css",
+			"file_size": 298,
+			"file_write_time": 1381457066000000,
+			"settings":
+			{
+				"buffer_size": 298,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<head>\n  <title>cdario</title>\n</head>\n\n<body>\n  {{> hello}}\n</body>\n\n<template name=\"hello\">\n  <h1>Hello World!</h1>\n  {{greeting}}\n  <input type=\"button\" value=\"Click\" />\n</template>\n",
+			"settings":
+			{
+				"buffer_size": 185,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: org",
+				"Package Control: Discover Packages"
+			],
+			[
+				"citep",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"snip lis",
+				"Snippet: Listing"
+			],
+			[
+				"list",
+				"Snippet: Listing"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Enumerate"
+			],
+			[
+				"\\",
+				"Snippet: \\begin{}…\\end{}"
+			],
+			[
+				"latexT",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"pane",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/cesar/code/meteor_sites/cdario/bsa.js",
+		"/home/cesar/code/meteor_sites/cdario/bootstrap.min.css",
+		"/home/cesar/code/meteor_sites/cdario/bootstrap.css",
+		"/media/cesar/2CF4F327F4F2F246/Users/cesar/Pictures/askuself.html",
+		"/home/cesar/code/meteor_sites/cdario/justified-nav.css",
+		"/home/cesar/code/meteor_sites/cdario/notes.html",
+		"/home/cesar/code/meteor_sites/cdario/cdario.css",
+		"/home/cesar/code/meteor_sites/cdario/bootstrap.min.js",
+		"/home/cesar/code/meteor_sites/cdario/navbar.css",
+		"/home/cesar/Desktop/z/mincop97.cpp",
+		"/home/cesar/Desktop/z/data0.txt",
+		"/home/cesar/Desktop/z/fail instances",
+		"/home/cesar/Desktop/z/dataZ.txt",
+		"/home/cesar/Desktop/z/data2.txt",
+		"/home/cesar/Desktop/z/cop97-OK.cpp",
+		"/home/cesar/latex/notes-on-dev-COP97.tex",
+		"/home/cesar/latex/program-demo.tex",
+		"/media/cesar/2CF4F327F4F2F246/temp/Estimado Javier.txt",
+		"/home/cesar/code/meteor_sites/cdario/navbar-fixed-top.css",
+		"/home/cesar/code/meteor_sites/cdario/jquery.js",
+		"/home/cesar/recovered/cpp/05093472.cpp",
+		"/home/cesar/Desktop/atcs_plugin.cpp",
+		"/home/cesar/code/cop97/mcop97.cpp",
+		"/home/cesar/code/cop97/cop97.cpp",
+		"/home/cesar/code/old.emacs.init.el",
+		"/home/cesar/Desktop/cop97/cop97-4d.cpp",
+		"/home/cesar/Desktop/cop97/cop97-11d.cpp",
+		"/home/cesar/code/cop97/mincop97.cpp",
+		"/home/cesar/.emacs.d/init.el",
+		"/home/cesar/dotfiles/.emacs.d/init.el",
+		"/home/cesar/.mozilla/firefox/4ze4g04k.default/ScrapBook/data/20130826182519/index.html",
+		"/home/cesar/latex/notes-ideas-wuping.tex",
+		"/home/cesar/latex/cop97.bib",
+		"/home/cesar/PhD/To-do.org",
+		"/home/cesar/PhD/3mt.org",
+		"/home/cesar/code/cop97/cop97-2.cpp",
+		"/media/2CF4F327F4F2F246/Users/cesar/Dropbox/LaTex/0. first year annual review/FirstYearReview_Review.tex",
+		"/media/2CF4F327F4F2F246/Users/cesar/Dropbox/LaTex/0. first year annual review/FirstYearReview.tex",
+		"/media/2CF4F327F4F2F246/Users/cesar/Dropbox/LaTex/0. first year annual review/FirstYearReview_Methods.tex",
+		"/home/cesar/latex/notes-on-dev-COP97-Math.tex",
+		"/home/cesar/.config/sublime-text-2/Packages/orgmode/README.md",
+		"/home/cesar/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings",
+		"/home/cesar/latex/example-latex.tex",
+		"/home/cesar/latex/example-latex.pdf",
+		"/home/cesar/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/cesar/.config/sublime-text-2/Packages/LaTeXTools/README.markdown",
+		"/home/cesar/LanguageTool-2.2/README.txt",
+		"/home/cesar/git/COP97/COP97/src/COP97.cpp",
+		"/home/cesar/.config/sublime-text-2/Packages/User/LaTeX.sublime-settings",
+		"/home/cesar/Downloads/dirtree.ins",
+		"/home/cesar/workspace/COP97/src/COP97.cpp",
+		"/home/cesar/meteor_sites/personal/personal.html",
+		"/home/cesar/Desktop/Firefox Recovery Key.html",
+		"/home/cesar/meteor_sites/swarsystems/swarsystems.html",
+		"/home/cesar/meteor_sites/swarsystems/fluid-layout.html",
+		"/home/cesar/meteor_sites/swarsystems/fluid-layout (copy).html",
+		"/home/cesar/meteor_sites/swarsystems/bootstrap.css",
+		"/home/cesar/meteor_sites/swarsystems/swarsystems.js",
+		"/home/cesar/meteor_sites/swarsystems/swarsystems.css",
+		"/home/cesar/meteor_sites/swarsystems/css/bootstrap.css",
+		"/home/cesar/.config/sublime-text-2/Packages/LaTeXTools/Default (Linux).sublime-keymap",
+		"/home/cesar/.config/sublime-text-2/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings",
+		"/home/cesar/latex/example-latex.log",
+		"/home/cesar/Desktop/startups/hws/h4-pt2-permalink-bitstarter.txt",
+		"/home/cesar/Desktop/startups/hws/h4-pt1-permalink-bitstarter.txt",
+		"/home/cesar/.mozilla/firefox/1hvep94k.default/blocklist.xml",
+		"/home/cesar/.emacs.d/themes/monokai.el",
+		"/home/cesar/meteor_sites/e-tucasa/client/lib/gmaps.js",
+		"/home/cesar/.config/sublime-text-2/Packages/Default/Distraction Free.sublime-settings",
+		"/home/cesar/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/cesar/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/cesar/meteor_sites/etucasa/css/bootstrap- simplex.css",
+		"/home/cesar/meteor_sites/e-tucasa/e-tucasa.html",
+		"/home/cesar/meteor_sites/e-tucasa/e-tucasa.js",
+		"/home/cesar/.screenrc",
+		"/home/cesar/.emacs.d/js-comint.el",
+		"/home/cesar/meteor_sites/e-tucasa/maps.js",
+		"/home/cesar/meteor_sites/e-tucasa/lib/css/bootstrap- simplex.css",
+		"/home/cesar/meteor_sites/etucasa/bootstrap-responsive.css",
+		"/home/cesar/meteor_sites/etucasa/lib/css/etucasa.css",
+		"/home/cesar/meteor_sites/etucasa/etucasa.html",
+		"/home/cesar/meteor_sites/etucasa/etucasa.js",
+		"/home/cesar/meteor_sites/etucasa/lib/css/bootstrap- simplex.css",
+		"/home/cesar/meteor_sites/etucasa/css/bootstrap-simplex.css",
+		"/home/cesar/meteor_sites/etucasa/css/etucasa.css",
+		"/home/cesar/meteor_sites/etucasa/css/aetucasa.css",
+		"/home/cesar/meteor_sites/etucasa/css/bootstrap.css",
+		"/home/cesar/meteor_sites/bootswatch -simplex theme/bootstrap.css",
+		"/home/cesar/meteor_sites/etucasa/etucasa.css",
+		"/home/cesar/meteor_sites/bootstrap.css",
+		"/home/cesar/meteor_sites/etucasa/bootstrap.css",
+		"/home/cesar/.meteor/packages/bootstrap/adac3a52bc79dbaf2e8102fb98f90597a820cf38/css/bootstrap.css",
+		"/home/cesar/meteor_sites/etucasa/variables.less",
+		"/home/cesar/meteor_sites/etucasa/etucasa2.html",
+		"/home/cesar/.meteor/packages/bootstrap/adac3a52bc79dbaf2e8102fb98f90597a820cf38/css/bootstrap-override.css",
+		"/usr/local/bin/meteor",
+		"/home/cesar/Desktop/flashc2.txt",
+		"/home/cesar/Desktop/startup eng/install npm and node.js",
+		"/home/cesar/meteor_sites/etucasa/propuesta.html",
+		"/home/cesar/meteor_sites/bootswatch -simplex theme/bootswatch.less",
+		"/home/cesar/meteor_sites/bootswatch -simplex theme/variables.less",
+		"/home/cesar/meteor_sites/etucasa/bootstrap.min.css",
+		"/home/cesar/meteor_sites/picturama/picturama.html",
+		"/home/cesar/Desktop/mnadarinflashcards1.txt",
+		"/home/cesar/my_cool_app/my_cool_app.js",
+		"/home/cesar/my_cool_app/my_cool_app.html",
+		"/home/cesar/meteor_sites/etucasa/index.html",
+		"/home/cesar/my_cool_app/my_cool_app.css",
+		"/home/cesar/Desktop/somthing.tex"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navbar-inverse",
+			"hover",
+			"active",
+			"color",
+			"navbar",
+			"nav",
+			"li",
+			"earliest",
+			"getArrivalEarliest",
+			"size",
+			"printarray",
+			"NEW",
+			"getB",
+			"cout",
+			"arriva",
+			"maxDischarge",
+			"/*\n",
+			"0",
+			"mingree",
+			"\nmingreen",
+			"\nmingree",
+			"\n",
+			"goOn",
+			"add-to-list",
+			"M ",
+			"M",
+			"flag_stop",
+			"rep",
+			"goOn",
+			"font",
+			"arrival",
+			"coordinatedPhase",
+			"cite",
+			"getFeasibleGreens",
+			"band",
+			"getFeasibleGreens",
+			",",
+			"}",
+			"{",
+			"represented in",
+			"good",
+			"Dynamic",
+			"label",
+			"getArrivals",
+			"varphi",
+			"store",
+			"snipp",
+			"left",
+			"well sid",
+			"float",
+			"pull",
+			"NAV-LIS",
+			"WELL",
+			"NAVBAR",
+			"SIDE",
+			"SIDEBAR-NAV",
+			"update",
+			"sidebar",
+			"		  ",
+			"sidebar",
+			"maps",
+			"feat",
+			"map-tes",
+			"templa",
+			"mapPostsList",
+			"carous",
+			"time",
+			"width",
+			".navbar",
+			".navbar .dropdown-menu",
+			".navbar.dropdown-menu",
+			".navbar .dropdown-menu",
+			".navbar .dropdown-menu a",
+			"dropdown",
+			"dropdown-menu",
+			"dropdown",
+			"down",
+			"jose",
+			"Josefin",
+			"font-family",
+			"font",
+			"font\n",
+			"font-family\n",
+			"font-family:\n",
+			"font-family: \n",
+			"navbar",
+			"font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;",
+			"font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n",
+			"font-fam",
+			"jose",
+			"inner",
+			"nav-",
+			"nav--",
+			"nav-inverse",
+			"nota",
+			"nav-head",
+			"nav-",
+			"bootstr",
+			"marketing",
+			"content",
+			"Nuestra propues",
+			"bt",
+			"btn",
+			"button",
+			"buttin",
+			"butt",
+			"button",
+			"d9230f",
+			"jpg",
+			"nav",
+			"D9831F",
+			"orange",
+			"nav-bar",
+			"primary",
+			"orange",
+			"nav",
+			"color",
+			"nav",
+			"conte",
+			"/>\n",
+			"png",
+			"content",
+			"Inmueble",
+			"Inmuebl",
+			"content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"navbar-default",
+			"",
+			"font-family: \"Josefin Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;",
+			"000000"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cdario.html",
+					"settings":
+					{
+						"buffer_size": 12178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11433,
+								11433
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3811.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Is what I am doing now, or about to do...",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "cdario.css",
+					"settings":
+					{
+						"buffer_size": 1576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "justified-navbar.css",
+					"settings":
+					{
+						"buffer_size": 2424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1476,
+								1476
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 104.0,
+						"translation.y": 408.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "navbar.css",
+					"settings":
+					{
+						"buffer_size": 298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"settings":
+					{
+						"buffer_size": 185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 155.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"dirtree",
+				"/home/cesar/Downloads/dirtree.ins"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
