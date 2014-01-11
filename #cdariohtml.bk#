@@ -1,0 +1,229 @@
+  <head>
+     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.png">
+	<title>CDV</title>
+	<!-- Custom styles for this template -->
+	<link href="bootstrap.css" rel="stylesheet">
+	<link href="justified-navbar.css" rel="stylesheet">
+
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+
+  </head>
+<body>
+
+
+              <div class="navbar navbar-default">
+                <div class="container">
+                  <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                    </button>
+                    <!--a class="navbar-brand" href="#">C&eacutesar D. Velandia</a-->
+                  </div>
+                  <div class="navbar-collapse collapse navbar-responsive-collapse">
+                    <ul class="nav navbar-nav">
+                      <li class="active"><a href="#">Personal</a></li>
+                      <li><a href="#">Professional</a></li>
+                      <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Me on the Web <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="#">Google Scholar</a></li>
+                          <li><a href="#">Employer's site</a></li>
+                          <li><a href="#">Ranking</a></li>
+                          <li class="divider"></li>
+                          <li class="dropdown-header">Hobbies</li>
+                          <li><a href="#">Saxophone plays</a></li>
+                          <li><a href="#">Running</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="navbar-brand" href="#">C&eacutesar D. Velandia</a>
+                    </li>
+                      
+                      <!--li><a href="#">my CV</a></li-->
+                    
+                    <!--li class="search">
+                    <form class="navbar-form navbar-left">
+                      <input type="text" class="form-control col-lg-8" placeholder="Search">
+                    </form>
+                    </li-->
+
+
+
+                    </ul>
+                  </div><!-- /.nav-collapse -->
+                </div><!-- /.container -->
+              </div><!-- /.navbar -->
+
+<div class="container">
+
+
+      <!-- Typography
+      ================================================== -->
+      <div class="bs-docs-section">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="page-header">
+              <h2 id="type">Here's looking at you kid!</h2>
+            </div>
+          </div>
+        </div>
+
+        <!-- Headings -->
+
+        <div class="row">
+          <div class="col-lg-4">
+            <div class="bs-example bs-example-type">
+              <h2>Highlights</h2>
+              <div class="list-group">
+                <a href="#" class="list-group-item">
+                  <h4 class="list-group-item-heading">New pictures added</h4>
+                  <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                </a>
+                <a href="#" class="list-group-item">
+                  <h4 class="list-group-item-heading">Next month's schedule</h4>
+                  <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                </a>
+`                <a href="#" class="list-group-item">
+                  <h4 class="list-group-item-heading">Random thought</h4>
+                  <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                </a>
+              </div>
+              
+            </div>
+            <div class="all-highlights">
+              <a href=""> see all</a>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="bs-example">
+              <h2>Who am I?</h2>
+              <p>I'm another lost soul in search of illumination and purpose. I devote my time to intellectual problems and currently work as <a href="#">graduate researcher</a>. When the time permits, enjoy <a href="#">reading classic literature</a>, playing <a href="#">old saxophone tunes</a> or contemplating <a href="#">nature</a>
+              <p><small>Feel free to comment on any of my activities here</small></p>
+              <p>I also enjoy fiddling with new web and mobile technologies such as <strong>Meteor</strong>.</p>
+              <p>Poetry is part of my life, I'm fascinated with <em>A boy's will</em> by Robert Frost.</p>
+              <p>My middle name is Dario, hence the name of this site <abbr title="Cesar Dario">cdario</abbr>.</p>
+            </div>
+
+          </div>
+          <div class="col-lg-4">
+
+<div class="bs-example">
+              <ul class="nav nav-tabs" style="margin-bottom: 15px;">
+                <li class="active"><a href="#home" data-toggle="tab">Card</a></li>
+                <li><a href="#profile" data-toggle="tab">Quick CV</a></li>
+                <li class="disabled"><a>Hire me</a></li>
+                <li class="dropdown">
+                  <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                    Contact <span class="caret"></span>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#dropdown1" data-toggle="tab">Action</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#dropdown2" data-toggle="tab">Another action</a></li>
+                  </ul>
+                </li>
+              </ul>
+              <div id="myTabContent" class="tab-content">
+                <div class="tab-pane fade active in" id="home">
+                  <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.</p>
+                  <div >
+                    <a href="http://twitter.com/cesardvelandia"><i class="icon-twitter icon-2x" ></i></a> &nbsp;
+                    <a href="http://www.linkedin.com/in/cesardvelandia"><i class="icon-linkedin icon-2x" ></i></a> &nbsp;
+                    <a href="http://github.com/cdario"><i class="icon-github icon-2x" ></i></a> &nbsp;
+                    <a href="http://plus.google.com/116664481815785660106"><i class="icon-google-plus icon-2x" ></i></a>
+                  </div>
+                </div>
+                <div class="tab-pane fade" id="profile">
+                  <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.</p>
+                </div>
+                <div class="tab-pane fade" id="dropdown1">
+                  <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer, iphone skateboard locavore carles etsy salvia banksy hoodie helvetica. DIY synth PBR banksy irony. Leggings gentrify squid 8-bit cred pitchfork.</p>
+                </div>
+                <div class="tab-pane fade" id="dropdown2">
+                  <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater.</p>
+                </div>
+              </div>
+            
+          </div>
+        </div>
+</div>
+        <!-- Blockquotes -->
+
+        <div class="row">
+          <div class="col-lg-12">
+            <h2 id="type-blockquotes">Blockquotes</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-6">
+            <blockquote>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+              <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
+            </blockquote>
+          </div>
+          <div class="col-lg-6">
+            <blockquote class="pull-right">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+              <small>Someone famous in <cite title="Source Title">Source Title</cite></small>
+            </blockquote>
+          </div>
+        </div>
+      </div>
+
+
+
+      <!-- Jumbotron -->
+<!--       <div class="jumbotron">
+        <h1>Marketing stuff!</h1>
+        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.</p>
+        <p><a class="btn btn-lg btn-success" href="#">Get started today</a></p>
+      </div> -->
+
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-lg-4">
+          <h2>Heading</h2>
+          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <p><a class="btn btn-primary" href="#">View details &raquo;</a></p>
+        </div>
+        <div class="col-lg-4">
+          <h2>Heading</h2>
+          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <p><a class="btn btn-primary" href="#">View details &raquo;</a></p>
+       </div>
+        <div class="col-lg-4">
+          <h2>Heading</h2>
+          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
+          <p><a class="btn btn-primary" href="#">View details &raquo;</a></p>
+        </div>
+      </div>
+
+      <!-- Site footer -->
+      <div class="footer">
+        <p>&copy; Get in touch at cdv@cdario.com</p>
+                    <div class="webicons">
+                    <a href="http://twitter.com/cesardvelandia"><i class="icon-twitter icon-2x" ></i></a> &nbsp;
+                    <a href="http://www.linkedin.com/in/cesardvelandia"><i class="icon-linkedin icon-2x" ></i></a> &nbsp;
+                    <a href="http://github.com/cdario"><i class="icon-github icon-2x" ></i></a> &nbsp;
+                    <a href="http://plus.google.com/116664481815785660106"><i class="icon-google-plus icon-2x" ></i></a>
+                  </div>
+
+      </div>
+
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+</body>
+
