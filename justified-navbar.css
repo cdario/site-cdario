@@ -3,10 +3,14 @@ body {
   padding-top: 50px;
 }
 .footer {
-  border-top: 1px solid #eee;
+  border-top: thick solid #354B5E; 
   margin-top: 40px;
   padding-top: 40px;
   padding-bottom: 40px;
+}
+
+.blockquote{
+ color:#FFF;
 }
 
 /* Main marketing message and sign up button */

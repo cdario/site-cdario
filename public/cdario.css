@@ -1,12 +1,15 @@
 body{
 	padding-top: 60px;
 	min-height: 600px;
-	background-color: #EEEEFF;
+	background-color: #FFF;
 	font-size: normal;
 }
 
 .footer{
-	text-align: center;	
+	color:#222;
+	background-color:#FFF;
+	text-align: center;
+	border-top: thick solid #354B5E;	
 }
 
 .webicons{
@@ -20,6 +23,7 @@ a {
 
 a:hover {
 	color: #C63A3A ;
+	text-decoration: none;
  }
 
 i:hover{
@@ -49,8 +53,13 @@ i:hover{
 	background-color: transparent;
 }
 
+.blockquote{
+	color:#F5F5F5;
+}
+
 .projects{
 	min-height: 600px;
+	color:F5F5F5;
 }
 
 .navbar-default{
