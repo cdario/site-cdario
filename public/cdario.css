@@ -1,4 +1,6 @@
 body{
+	background-image:url('grid.png');
+	background-repeat:repeat;
 	padding-top: 60px;
 	min-height: 600px;
 	background-color: #FFF;
@@ -54,12 +56,13 @@ i:hover{
 }
 
 .blockquote{
-	color:#F5F5F5;
+	color:#FFF;
 }
 
 .projects{
 	min-height: 600px;
 	color:F5F5F5;
+	line-height: 2;
 }
 
 .navbar-default{
